@@ -1,4 +1,4 @@
-# TIGER Reviewing Plugin
+# TIGER Review Plugin
 
 This plugin adds a keyboard shortcut (SHIFT+R) to JOSM for removing the tiger:reviewed=yes tag on selected ways.
 It is intended as a quick way to nuke the `tiger:reviewed` tag while doing a lot of TIGER fixup.
