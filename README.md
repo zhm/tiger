@@ -11,7 +11,7 @@ To build the plugin, you need the JOSM source first.
 * clone this repo to the `josm/plugins` directory
 * navigate to the `core/` directory in the root of the JOSM source
 * build JOSM core using `ant clean && ant dist`
-* navigate back into `josm/plugins/josm-tiger`
+* navigate back into `josm/plugins/tiger`
 * build the plugin using `ant clean && ant dist && ant install`
 * if it worked, you should have `tiger.jar` in `~/.josm/plugins`
 * run JOSM and it should show up in the plugins tab, enable it and restart JOSM
